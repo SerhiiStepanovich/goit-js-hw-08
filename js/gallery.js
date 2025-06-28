@@ -95,7 +95,7 @@ function onGalleryClick(event) {
       src = "${originalImageUrl}" 
       alt = "${imageDescription}"
       width = "1112"
-      height = "800">`);
+      height = "640">`);
     instance.show();
   }
 }
